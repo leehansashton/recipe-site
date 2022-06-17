@@ -6,3 +6,7 @@
 ul, ol {
     display: inline-block;
 }
+img{
+    height: 300px;
+    width: 400px;
+}
